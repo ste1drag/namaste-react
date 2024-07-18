@@ -1,0 +1,31 @@
+{
+  "name": "episode-02",
+  "version": "1.0.0",
+  "description": "React course by Akshay Saini",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ste1drag/namaste-react.git"
+  },
+  "keywords": [],
+  "author": "Akshay Saini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ste1drag/namaste-react/issues"
+  },
+  "homepage": "https://github.com/ste1drag/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
